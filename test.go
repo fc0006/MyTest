@@ -21,5 +21,6 @@ func main() {
 	fmt.Println(time.Now().Unix()) //秒
 	fmt.Println(time.Now().UnixMicro())
 	fmt.Println(time.Now().UnixMilli()) //毫秒
+	fmt.Println("hahahahhahahahahah")
 
 }
